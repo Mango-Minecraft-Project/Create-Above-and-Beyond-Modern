@@ -1,0 +1,10 @@
+!.gitignore
+
+!config/
+!defaultconfigs/
+!kubejs-old/
+!kubejs/
+!mods/
+!openloader/
+!worldshape/
+!options.txt
